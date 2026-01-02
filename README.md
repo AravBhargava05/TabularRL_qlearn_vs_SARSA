@@ -79,5 +79,5 @@ Real robots explore imperfectly (noise, drift, control error). SARSA-like on-pol
 
 ## How to run
 
-python tabular_rl.py --algo q_learning
-python tabular_rl.py --algo sarsa
+python qlearn_SARSA_comparison.py
+python qlearn_SARSA_difference.py
